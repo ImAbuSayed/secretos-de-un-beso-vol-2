@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/secretos-de-un-beso-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Secretos de un beso, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-un-beso-vol-2/) |
+| **Get License** | [Get License For Secretos de un beso, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-un-beso-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d6387accb7518c4f40803e25d31c3681a92f4bc392fc21d109ebc021a6093589` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
