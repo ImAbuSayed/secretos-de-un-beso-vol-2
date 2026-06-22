@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Secretos de un beso, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 22, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/secretos-de-un-beso-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Secretos de un beso, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-un-beso-vol-2/) |
+| **Get License** | [Request Licensing for Secretos de un beso, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-un-beso-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Tus labios guardan secretos que quiero entender
-> Tensión en el party, mami, qué le vamos a hacer
-> Nos miramos de lejos, y el instinto empieza a ceder
-> Dime si te escapas, que a la disco vamos a prender
+> Yeah-yeah, late night confessions
+> Your body's my obsession
+> The way you move in slow motion
+> Got me drowning in this potion
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
