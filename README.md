@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/secretos-de-un-beso-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Secretos de un beso, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-un-beso-vol-2/) |
+| **Get License** | [Obtain a Music License for Secretos de un beso, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-un-beso-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus labios guardan secretos que quiero entender
+> Tensión en el party, mami, qué le vamos a hacer
+> Nos miramos de lejos, y el instinto empieza a ceder
+> Dime si te escapas, que a la disco vamos a prender
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
